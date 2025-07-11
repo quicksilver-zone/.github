@@ -14,10 +14,10 @@ Retain full voting power and influence governance decisions on your origin chain
 All code is open source and subject to community review. We work closely with security researchers and the Cosmos community.
 
 ## Key Repositories
-quicksilver: Core Quicksilver Protocol implementation (Cosmos SDK module)
-xcclookup: Cross Chain Claims webservice
-evince: Caching webservice
-networks: Mainnet and Testnet information
+- **quicksilver:** Core Quicksilver Protocol implementation (Cosmos SDK module)
+- **xcclookup:** Cross Chain Claims webservice
+- **evince:** Caching webservice
+- **networks:** Mainnet and Testnet information
 
 ### Get Involved
 Join the Conversation:
